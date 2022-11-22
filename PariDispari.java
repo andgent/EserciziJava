@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class PariDispari {
     
-}
     public static void main(String[] args) {
       pari();
     } 
@@ -25,3 +24,4 @@ public class PariDispari {
         return pari;
     }  
     }
+
